@@ -18,7 +18,7 @@ A simple desktop application to convert currencies in real-time.
 
     * **Option 1: On-Screen Input (Temporary):**
         * When the application starts, you will see a prompt to "Enter Api Key".
-        * Paste your API key into the provided field and click "Submit" or a similar button.
+        * Paste your API key into the provided field and click Convert button
         * ![On-screen API Key Input](https://github.com/user-attachments/assets/429f1d15-2b40-4f3f-bee7-30f412915e81)
 
     * **Option 2: Environment Variable (Persistent):**
